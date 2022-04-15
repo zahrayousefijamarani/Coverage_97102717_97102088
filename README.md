@@ -1,7 +1,5 @@
 # Software Engineering Lab HW3
 
----
-
 ## Test coverage
 
 ### Contributors
